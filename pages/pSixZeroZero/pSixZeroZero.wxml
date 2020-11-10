@@ -1,0 +1,36 @@
+<view class="container">
+  <view class="maxdiv">
+    <view class="tag_maxdiv" style="width: 100%;">
+      <image mode="widthFix" style="border-radius: 0rpx;"
+        src="https://img13.360buyimg.com/ddimg/jfs/t1/123677/28/17889/1690605/5faa39d2E84dd6fc9/117341fd13c982cc.jpg">
+      </image>
+    </view>
+
+    <view class="tag_maxdiv" style="width: 90%;">
+      <view class="video_div">
+        <video style="width: 100%;height: 100%;" id="video{{index}}" bindtap="video_play"
+          src="https://fnck-20200914-1303154931.cos.ap-guangzhou.myqcloud.com/%E8%A7%86%E9%A2%91/%E6%98%93%E5%9B%BE/P600%284g%29%E5%A4%A7%E5%B9%BF%E8%A7%92.mp4?q-sign-algorithm=sha1&q-ak=AKIDHL7fPrFwXrtdX9SYLq75j5BxTeFbR3KK&q-sign-time=1604992129;10244905729&q-key-time=1604992129;10244905729&q-header-list=&q-url-param-list=&q-signature=e643b70155f898b0259d1dc2c06696b4be56d482"
+          binderror="videoErrorCallback" show-center-play-btn="true" controls auto-pause-if-navigate
+          play-btn-position="center">
+        </video>
+      </view>
+
+    </view>
+
+
+    <view class="tag_maxdiv" style="margin-top: 20rpx;">
+      <image mode="widthFix"
+        src="https://img11.360buyimg.com/ddimg/jfs/t1/139691/9/13811/1438675/5faa39f9Eb986b7ef/b641b4e0d37ba61d.jpg">
+      </image>
+    </view>
+
+    <view class="tag_maxdiv" style="width: 100%;margin-top: 60rpx;">
+        <image mode="widthFix" style="border-radius: 0rpx;"
+          src="https://img14.360buyimg.com/ddimg/jfs/t1/120231/23/17943/15813/5fa8f6ffEd23cf49e/e8b387abaa5228ff.jpg">
+        </image>
+    </view>
+  </view>
+
+
+
+</view>

@@ -1,4 +1,4 @@
-// pages/smartStreaming/smartStreaming.js
+// pages/pSixZeroZero/pSixZeroZero.js
 Page({
 
   /**
@@ -7,16 +7,7 @@ Page({
   data: {
 
   },
-  pSixZeroZerodj: function () {
-    wx.navigateTo({
-      url: "../pSixZeroZero/pSixZeroZero"
-    })
-  },
-  sEightZeroZeroAdj: function () {
-    wx.navigateTo({
-      url: "../sEightZeroZeroA/sEightZeroZeroA"
-    })
-  },
+
   /**
    * 生命周期函数--监听页面加载
    */
