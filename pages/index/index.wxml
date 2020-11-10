@@ -1,15 +1,63 @@
 <view class="container">
-  <view class="tag_maxdiv" style="width:100%;">
-   
+  <view class="header">
+    <view class="tag_maxdiv">
+      <image mode="widthFix"
+        src="https://img11.360buyimg.com/ddimg/jfs/t1/127268/31/17932/156558/5fa9f0e7E41917e0b/4fcfefb12abdfa6a.jpg">
+      </image>
+    </view>
+    <view class="tag_maxdiv tag_style" bindtap="companyProfiledj">
+      <image mode="widthFix"
+        src="https://img13.360buyimg.com/ddimg/jfs/t1/132842/8/15393/165365/5fa9fa50Eae66eca8/2f358051d0813505.png">
+      </image>
+    </view>
+
   </view>
 
-  <view class="tag_maxdiv" style="width: 100%;">
-    <view class="yxzc_div">
-      <image mode="widthFix"
-        src="https://img11.360buyimg.com/ddimg/jfs/t1/122822/19/16818/26516/5f9cff42Edc27ae6e/8effc0c64e2f09c2.png">
-      </image>
+  <view class="tag_maxdiv" bindtap="hdRecorderdj">
+    <image mode="widthFix"
+      src="https://img10.360buyimg.com/ddimg/jfs/t1/147623/16/13941/229881/5fa9f24dE60d08850/fe266b0e8a61d701.png">
+    </image>
+  </view>
+
+  <view class="tag_maxdiv"  bindtap="smartStreamingdj">
+    <image mode="widthFix"
+      src="https://img14.360buyimg.com/ddimg/jfs/t1/121686/35/17953/175014/5fa9f7f9Ecfae9e12/b04def7b0826d82a.png">
+    </image>
+  </view>
+
+  <view class="tag_maxdiv" bindtap="smartHdHiddendj">
+    <image mode="widthFix"
+      src="https://img12.360buyimg.com/ddimg/jfs/t1/126037/37/17885/184528/5fa9f895E3dc61bde/25c28db204ebd629.png">
+    </image>
+  </view>
+
+  <view class="tag_maxdiv" bindtap="smartBigScreenCarMachinedj">
+    <image mode="widthFix"
+      src="https://img14.360buyimg.com/ddimg/jfs/t1/134353/19/15417/248835/5fa9f8ccE22dbbe7d/f535902598e5dd4e.png">
+    </image>
+  </view>
+
+  <view class="tag_maxdiv" style="width: 90%;">
+    <view class="video_div">
+      <video style="width: 100%;height: 100%;" id="video{{index}}" bindtap="video_play"
+        src="https://fnck-20200914-1303154931.cos.ap-guangzhou.myqcloud.com/%E8%A7%86%E9%A2%91/%E8%89%BE%E9%85%B7/%E8%89%BE%E9%85%B7X1000%203.mp4?q-sign-algorithm=sha1&q-ak=AKIDHL7fPrFwXrtdX9SYLq75j5BxTeFbR3KK&q-sign-time=1604659003;2468572603&q-key-time=1604659003;2468572603&q-header-list=&q-url-param-list=&q-signature=f974b9ff90371a11acd6705d98132469f92ee1f4"
+        binderror="videoErrorCallback" show-center-play-btn="true" controls auto-pause-if-navigate
+        play-btn-position="center">
+      </video>
     </view>
   </view>
 
-  
+  <view class="tag_maxdiv">
+    <image mode="widthFix"
+      src="https://img11.360buyimg.com/ddimg/jfs/t1/154832/22/5296/59753/5fa9f08fE4f028ad2/02dec8e42baabced.jpg">
+    </image>
+  </view>
+
+  <view class="tag_maxdiv">
+    <image mode="widthFix"
+      src="https://img14.360buyimg.com/ddimg/jfs/t1/124415/16/17992/1516893/5fa9f11dE1f29fda0/0987f0ea2034db8b.jpg">
+    </image>
+  </view>
+
+
 </view>

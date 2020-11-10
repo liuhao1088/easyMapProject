@@ -1,0 +1,14 @@
+.tag_maxdiv {
+  width: 90%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  float: left;
+}
+
+image {
+  height: 100%;
+  width: 100%;
+  vertical-align: middle;
+  text-align: center;
+}

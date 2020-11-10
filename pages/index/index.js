@@ -5,14 +5,49 @@ Page({
    * 页面的初始数据
    */
   data: {
-  
+    // top:''
+  },
+  companyProfiledj: function () {
+    wx.navigateTo({
+      url: "../companyProfile/companyProfile"
+    })
+  },
+  hdRecorderdj: function () {
+    wx.navigateTo({
+      url: "../hdRecorder/hdRecorder"
+    })
+  },
+  smartStreamingdj: function () {
+    wx.navigateTo({
+      url: "../smartStreaming/smartStreaming"
+    })
+  },
+  smartHdHiddendj: function () {
+    wx.navigateTo({
+      url: "../smartHdHidden/smartHdHidden"
+    })
+  },
+  smartBigScreenCarMachinedj: function () {
+    wx.navigateTo({
+      url: "../smartBigScreenCarMachine/smartBigScreenCarMachine"
+    })
   },
 
   /**
    * 生命周期函数--监听页面加载
    */
   onLoad: function (options) {
-   
+    // var windowHeight = wx.getSystemInfoSync().windowHeight;
+    // console.log(windowHeight);
+    // if(windowHeight>800){
+    //   this.setData({
+    //     top: "30%"
+    //   })
+    // }else{
+    //   this.setData({
+    //     top: "38%"
+    //   })
+    // }
   },
 
   /**

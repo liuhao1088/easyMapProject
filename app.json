@@ -1,6 +1,14 @@
 {
   "pages":[
-    "pages/index/index"
+    "pages/index/index",
+    "pages/companyProfile/companyProfile",
+    "pages/smartHdHidden/smartHdHidden",
+    "pages/smartBigScreenCarMachine/smartBigScreenCarMachine",
+    "pages/smartStreaming/smartStreaming",
+    
+    "pages/hdRecorder/hdRecorder"
+    
+    
   ],
   "window":{
     "backgroundTextStyle":"light",

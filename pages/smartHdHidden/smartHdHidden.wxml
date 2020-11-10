@@ -1,0 +1,39 @@
+<view class="container">
+  <view class="tag_maxdiv" style="width:100%;">
+    <image mode="widthFix"
+      src="https://img14.360buyimg.com/ddimg/jfs/t1/148540/9/13698/90317/5faa02e1E9fdb1eda/e2964c6064e9d6bf.png">
+    </image>
+  </view>
+
+  <view class="tag_maxdiv" style="margin-top: 60rpx;">
+    <image mode="widthFix"
+      src="https://img14.360buyimg.com/ddimg/jfs/t1/130315/12/15391/166551/5faa02f2Edd10de03/a9b3ca4c403f4b2a.png">
+    </image>
+  </view>
+
+  <view class="tag_maxdiv">
+    <image mode="widthFix"
+      src="https://img10.360buyimg.com/ddimg/jfs/t1/137936/29/13858/166686/5faa0302E626eb7d4/9f95432c246b311c.png">
+    </image>
+  </view>
+
+  <view class="tag_maxdiv">
+    <image mode="widthFix"
+      src="https://img12.360buyimg.com/ddimg/jfs/t1/130545/2/15111/137665/5faa030fEe3765433/641cbb6cf77ba91b.png">
+    </image>
+  </view>
+
+  <view class="tag_maxdiv">
+    <image mode="widthFix"
+      src="https://img14.360buyimg.com/ddimg/jfs/t1/125112/8/18254/161140/5faa0320E1e62b7ba/eba5559b252c7b4d.png">
+    </image>
+  </view>
+
+
+
+  <view class="tag_maxdiv" style="width:100%;">
+    <image mode="widthFix"
+      src="https://img11.360buyimg.com/ddimg/jfs/t1/154832/22/5296/59753/5fa9f08fE4f028ad2/02dec8e42baabced.jpg">
+    </image>
+  </view>
+</view>
