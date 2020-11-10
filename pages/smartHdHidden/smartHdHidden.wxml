@@ -5,25 +5,25 @@
     </image>
   </view>
 
-  <view class="tag_maxdiv" style="margin-top: 60rpx;">
+  <view class="tag_maxdiv" style="margin-top: 60rpx;" bindtap="eSixThreeZerodj">
     <image mode="widthFix"
       src="https://img14.360buyimg.com/ddimg/jfs/t1/130315/12/15391/166551/5faa02f2Edd10de03/a9b3ca4c403f4b2a.png">
     </image>
   </view>
 
-  <view class="tag_maxdiv">
+  <view class="tag_maxdiv" bindtap="eSixThreeZeroWiFidj">
     <image mode="widthFix"
       src="https://img10.360buyimg.com/ddimg/jfs/t1/137936/29/13858/166686/5faa0302E626eb7d4/9f95432c246b311c.png">
     </image>
   </view>
 
-  <view class="tag_maxdiv">
+  <view class="tag_maxdiv" bindtap="eSevenSevenTwodj">
     <image mode="widthFix"
       src="https://img12.360buyimg.com/ddimg/jfs/t1/130545/2/15111/137665/5faa030fEe3765433/641cbb6cf77ba91b.png">
     </image>
   </view>
 
-  <view class="tag_maxdiv">
+  <view class="tag_maxdiv" bindtap="eSevenSevenThreedj">
     <image mode="widthFix"
       src="https://img14.360buyimg.com/ddimg/jfs/t1/125112/8/18254/161140/5faa0320E1e62b7ba/eba5559b252c7b4d.png">
     </image>

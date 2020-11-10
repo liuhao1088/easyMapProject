@@ -1,0 +1,48 @@
+<view class="container">
+  <view class="maxdiv">
+    <view class="tag_maxdiv" style="width: 100%;">
+      <image mode="widthFix" style="border-radius: 0rpx;"
+        src="https://img10.360buyimg.com/ddimg/jfs/t1/120528/5/18073/1747237/5faa3d7fE1e564220/d60f4207b7f86291.jpg">
+      </image>
+    </view>
+
+    <!-- <view class="tag_maxdiv" style="width: 90%;">
+      <view class="video_div">
+        <video style="width: 100%;height: 100%;" id="video{{index}}" bindtap="video_play"
+          src="https://fnck-20200914-1303154931.cos.ap-guangzhou.myqcloud.com/%E8%A7%86%E9%A2%91/%E6%98%93%E5%9B%BE/%E6%98%93%E5%9B%BEE630.m4v?q-sign-algorithm=sha1&q-ak=AKIDHL7fPrFwXrtdX9SYLq75j5BxTeFbR3KK&q-sign-time=1604992498;10244906098&q-key-time=1604992498;10244906098&q-header-list=&q-url-param-list=&q-signature=73387dcfbbd8c955b519f419cf15b4b9781d8521"
+          binderror="videoErrorCallback" show-center-play-btn="true" controls auto-pause-if-navigate
+          play-btn-position="center">
+        </video>
+      </view>
+
+    </view> -->
+
+
+    <view class="tag_maxdiv" style="margin-top: 20rpx;">
+      <image mode="widthFix"
+        src="https://img11.360buyimg.com/ddimg/jfs/t1/139484/3/13817/1457266/5faa3d92Ee1014ea4/ab7a0bbe3b16b200.jpg">
+      </image>
+    </view>
+
+    <view class="tag_maxdiv" style="margin-top: 20rpx;">
+      <image mode="widthFix"
+        src="https://img11.360buyimg.com/ddimg/jfs/t1/126358/35/17946/1501016/5faa3da9Ed7b51d4c/0ff9ba339429545a.jpg">
+      </image>
+    </view>
+
+    <view class="tag_maxdiv" style="margin-top: 20rpx;">
+      <image mode="widthFix"
+        src="https://img12.360buyimg.com/ddimg/jfs/t1/132449/7/15409/1697920/5faa3dc2Ef03dd316/f0b91c9699526e11.jpg">
+      </image>
+    </view>
+
+    <view class="tag_maxdiv" style="width: 100%;margin-top: 60rpx;">
+        <image mode="widthFix" style="border-radius: 0rpx;"
+          src="https://img14.360buyimg.com/ddimg/jfs/t1/120231/23/17943/15813/5fa8f6ffEd23cf49e/e8b387abaa5228ff.jpg">
+        </image>
+    </view>
+  </view>
+
+
+
+</view>

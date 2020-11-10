@@ -1,0 +1,54 @@
+<view class="container">
+  <view class="maxdiv">
+    <view class="tag_maxdiv" style="width: 100%;">
+      <image mode="widthFix" style="border-radius: 0rpx;"
+        src="https://img10.360buyimg.com/ddimg/jfs/t1/130219/7/15283/1138635/5faa401cEa53adb1f/8051defefde4fb22.jpg">
+      </image>
+    </view>
+
+    <view class="tag_maxdiv" style="width: 90%;">
+      <view class="video_div">
+        <video style="width: 100%;height: 100%;" id="video{{index}}" bindtap="video_play"
+          src="https://fnck-20200914-1303154931.cos.ap-guangzhou.myqcloud.com/%E8%A7%86%E9%A2%91/%E6%98%93%E5%9B%BE/%E6%98%93%E5%9B%BEE772.mp4?q-sign-algorithm=sha1&q-ak=AKIDHL7fPrFwXrtdX9SYLq75j5BxTeFbR3KK&q-sign-time=1604993029;10244906629&q-key-time=1604993029;10244906629&q-header-list=&q-url-param-list=&q-signature=eeeb210aa0949b5ac7493eb3f7d21b98cfe31bb6"
+          binderror="videoErrorCallback" show-center-play-btn="true" controls auto-pause-if-navigate
+          play-btn-position="center">
+        </video>
+      </view>
+
+    </view>
+
+
+    <view class="tag_maxdiv" style="margin-top: 20rpx;">
+      <image mode="widthFix"
+        src="https://img13.360buyimg.com/ddimg/jfs/t1/137424/2/15309/1237621/5faa4039E9cc44966/cff5380b7e267878.jpg">
+      </image>
+    </view>
+
+    <view class="tag_maxdiv" style="margin-top: 20rpx;">
+      <image mode="widthFix"
+        src="https://img14.360buyimg.com/ddimg/jfs/t1/126068/15/17948/1264056/5faa4051E39fd03d3/5a1976318e750e2a.jpg">
+      </image>
+    </view>
+
+    <view class="tag_maxdiv" style="margin-top: 20rpx;">
+      <image mode="widthFix"
+        src="https://img13.360buyimg.com/ddimg/jfs/t1/139913/38/13916/1107820/5faa4066E820d37d6/ff6a52e92329d2e4.jpg">
+      </image>
+    </view>
+
+    <view class="tag_maxdiv" style="margin-top: 20rpx;">
+      <image mode="widthFix"
+        src="https://img14.360buyimg.com/ddimg/jfs/t1/150091/26/13795/1306295/5faa407eEc73e5fc8/6e689ed2ce2ac00c.jpg">
+      </image>
+    </view>
+
+    <view class="tag_maxdiv" style="width: 100%;margin-top: 60rpx;">
+        <image mode="widthFix" style="border-radius: 0rpx;"
+          src="https://img14.360buyimg.com/ddimg/jfs/t1/120231/23/17943/15813/5fa8f6ffEd23cf49e/e8b387abaa5228ff.jpg">
+        </image>
+    </view>
+  </view>
+
+
+
+</view>

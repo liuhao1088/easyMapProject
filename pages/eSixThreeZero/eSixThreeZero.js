@@ -1,4 +1,4 @@
-// pages/smartHdHidden/smartHdHidden.js
+// pages/eSixThreeZero/eSixThreeZero.js
 Page({
 
   /**
@@ -7,26 +7,7 @@ Page({
   data: {
 
   },
-  eSixThreeZerodj: function () {
-    wx.navigateTo({
-      url: "../eSixThreeZero/eSixThreeZero"
-    })
-  },
-  eSixThreeZeroWiFidj: function () {
-    wx.navigateTo({
-      url: "../eSixThreeZeroWiFi/eSixThreeZeroWiFi"
-    })
-  },
-  eSevenSevenTwodj: function () {
-    wx.navigateTo({
-      url: "../eSevenSevenTwo/eSevenSevenTwo"
-    })
-  },
-  eSevenSevenThreedj: function () {
-    wx.navigateTo({
-      url: "../eSevenSevenThree/eSevenSevenThree"
-    })
-  },
+
   /**
    * 生命周期函数--监听页面加载
    */

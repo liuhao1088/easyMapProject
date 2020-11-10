@@ -1,0 +1,66 @@
+<view class="container">
+  <view class="maxdiv">
+    <view class="tag_maxdiv" style="width: 100%;">
+      <image mode="widthFix" style="border-radius: 0rpx;"
+        src="https://img14.360buyimg.com/ddimg/jfs/t1/144817/2/13965/1494854/5faa4125E5c9a7206/b9a7212cc6dfce43.jpg">
+      </image>
+    </view>
+
+    <view class="tag_maxdiv" style="width: 90%;">
+      <view class="video_div">
+        <video style="width: 100%;height: 100%;" id="video{{index}}" bindtap="video_play"
+          src="https://fnck-20200914-1303154931.cos.ap-guangzhou.myqcloud.com/%E8%A7%86%E9%A2%91/%E6%98%93%E5%9B%BE/%E6%98%93%E5%9B%BEE773%E6%88%90%E7%89%8701.m4v?q-sign-algorithm=sha1&q-ak=AKIDHL7fPrFwXrtdX9SYLq75j5BxTeFbR3KK&q-sign-time=1604993294;10244906894&q-key-time=1604993294;10244906894&q-header-list=&q-url-param-list=&q-signature=78cbd421aaab5d0b8d1a8e76216f6ac07ff6d372"
+          binderror="videoErrorCallback" show-center-play-btn="true" controls auto-pause-if-navigate
+          play-btn-position="center">
+        </video>
+      </view>
+
+    </view>
+
+
+    <view class="tag_maxdiv" style="margin-top: 20rpx;">
+      <image mode="widthFix"
+        src="https://img11.360buyimg.com/ddimg/jfs/t1/151172/21/6175/1737497/5faa413aE0a538287/9e7db41b4b48ea3f.jpg">
+      </image>
+    </view>
+
+    <view class="tag_maxdiv" style="margin-top: 20rpx;">
+      <image mode="widthFix"
+        src="https://img12.360buyimg.com/ddimg/jfs/t1/145247/39/13873/1779687/5faa414dE3910a062/037f094b65106383.jpg">
+      </image>
+    </view>
+
+    <view class="tag_maxdiv" style="margin-top: 20rpx;">
+      <image mode="widthFix"
+        src="https://img11.360buyimg.com/ddimg/jfs/t1/134212/11/15384/1754154/5faa4160E25240c62/06a34b097d294cf5.jpg">
+      </image>
+    </view>
+
+    <view class="tag_maxdiv" style="margin-top: 20rpx;">
+      <image mode="widthFix"
+        src="https://img10.360buyimg.com/ddimg/jfs/t1/139619/26/13974/1486223/5faa4176Eff42f9e8/05d5a92818653334.jpg">
+      </image>
+    </view>
+
+    <view class="tag_maxdiv" style="margin-top: 20rpx;">
+      <image mode="widthFix"
+        src="https://img10.360buyimg.com/ddimg/jfs/t1/128162/34/17987/1596093/5faa418eEf8b81d40/bcc705e4c65489f2.jpg">
+      </image>
+    </view>
+
+    <view class="tag_maxdiv" style="margin-top: 20rpx;">
+      <image mode="widthFix"
+        src="https://img10.360buyimg.com/ddimg/jfs/t1/139027/21/13810/755791/5faa41a2E84dd87a5/a40a6c1884d66c8f.jpg">
+      </image>
+    </view>
+
+    <view class="tag_maxdiv" style="width: 100%;margin-top: 60rpx;">
+        <image mode="widthFix" style="border-radius: 0rpx;"
+          src="https://img14.360buyimg.com/ddimg/jfs/t1/120231/23/17943/15813/5fa8f6ffEd23cf49e/e8b387abaa5228ff.jpg">
+        </image>
+    </view>
+  </view>
+
+
+
+</view>
