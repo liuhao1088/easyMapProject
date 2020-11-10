@@ -40,7 +40,7 @@
   <view class="tag_maxdiv" style="width: 90%;">
     <view class="video_div">
       <video style="width: 100%;height: 100%;" id="video{{index}}" bindtap="video_play"
-        src="https://fnck-20200914-1303154931.cos.ap-guangzhou.myqcloud.com/%E8%A7%86%E9%A2%91/%E8%89%BE%E9%85%B7/%E8%89%BE%E9%85%B7X1000%203.mp4?q-sign-algorithm=sha1&q-ak=AKIDHL7fPrFwXrtdX9SYLq75j5BxTeFbR3KK&q-sign-time=1604659003;2468572603&q-key-time=1604659003;2468572603&q-header-list=&q-url-param-list=&q-signature=f974b9ff90371a11acd6705d98132469f92ee1f4"
+        src="https://fnck-20200914-1303154931.cos.ap-guangzhou.myqcloud.com/%E8%A7%86%E9%A2%91/%E6%98%93%E5%9B%BE/%E6%98%93%E5%9B%BEE773-%E9%AB%98%E6%B8%85.m4v?q-sign-algorithm=sha1&q-ak=AKIDHL7fPrFwXrtdX9SYLq75j5BxTeFbR3KK&q-sign-time=1604996192;10244909792&q-key-time=1604996192;10244909792&q-header-list=&q-url-param-list=&q-signature=e066637cd28ad9d9604f4347c042814fb1ab91fb"
         binderror="videoErrorCallback" show-center-play-btn="true" controls auto-pause-if-navigate
         play-btn-position="center">
       </video>
