@@ -2,15 +2,16 @@
   <view class="maxdiv">
     <view class="tag_maxdiv" style="width: 100%;">
       <image mode="widthFix" style="border-radius: 0rpx;"
-        src="https://img12.360buyimg.com/ddimg/jfs/t1/146209/2/13830/1854956/5faa4290E811b5828/45e57136a776487a.jpg">
+        src="https://img13.360buyimg.com/ddimg/jfs/t1/134589/24/15367/1556027/5faa42b3E3e869437/11396fa2d0ccf9c0.jpg">
       </image>
     </view>
 
     <view class="tag_maxdiv" style="margin-top: 20rpx;">
       <image mode="widthFix"
-        src="https://img13.360buyimg.com/ddimg/jfs/t1/134589/24/15367/1556027/5faa42b3E3e869437/11396fa2d0ccf9c0.jpg">
+        src="https://img12.360buyimg.com/ddimg/jfs/t1/146209/2/13830/1854956/5faa4290E811b5828/45e57136a776487a.jpg">
       </image>
     </view>
+    
 
     <view class="tag_maxdiv" style="width: 100%;margin-top: 60rpx;">
         <image mode="widthFix" style="border-radius: 0rpx;"
