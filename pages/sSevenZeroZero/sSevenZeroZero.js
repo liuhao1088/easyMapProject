@@ -1,4 +1,4 @@
-// pages/hdRecorder/hdRecorder.js
+// pages/sSevenZeroZero/sSevenZeroZero.js
 Page({
 
   /**
@@ -6,26 +6,6 @@ Page({
    */
   data: {
 
-  },
-  sSixZeroZerodj: function () {
-    wx.navigateTo({
-      url: "../sSixZeroZero/sSixZeroZero"
-    })
-  },
-  sSevenZeroZerodj: function () {
-    wx.navigateTo({
-      url: "../sSevenZeroZero/sSevenZeroZero"
-    })
-  },
-  sSevenZeroOnedj: function () {
-    wx.navigateTo({
-      url: "../sSevenZeroOne/sSevenZeroOne"
-    })
-  },
-  sEightZeroOnedj: function () {
-    wx.navigateTo({
-      url: "../sEightZeroOne/sEightZeroOne"
-    })
   },
 
   /**
