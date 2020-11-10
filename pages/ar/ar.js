@@ -1,4 +1,4 @@
-// pages/smartBigScreenCarMachine/smartBigScreenCarMachine.js
+// pages/ar/ar.js
 Page({
 
   /**
@@ -7,26 +7,7 @@ Page({
   data: {
 
   },
-  ardj: function () {
-    wx.navigateTo({
-      url: "../ar/ar"
-    })
-  },
-  dThreeProdj: function () {
-    wx.navigateTo({
-      url: "../dThreePro/dThreePro"
-    })
-  },
-  dSixProdj: function () {
-    wx.navigateTo({
-      url: "../dSixPro/dSixPro"
-    })
-  },
-  threeSixZeroWiFidj: function () {
-    wx.navigateTo({
-      url: "../threeSixZeroWiFi/threeSixZeroWiFi"
-    })
-  },
+
   /**
    * 生命周期函数--监听页面加载
    */
