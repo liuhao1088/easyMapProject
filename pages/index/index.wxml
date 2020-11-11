@@ -16,19 +16,19 @@
 
   <view class="tag_maxdiv" bindtap="hdRecorderdj">
     <image mode="widthFix"
-      src="https://img10.360buyimg.com/ddimg/jfs/t1/147623/16/13941/229881/5fa9f24dE60d08850/fe266b0e8a61d701.png">
+      src="https://img11.360buyimg.com/ddimg/jfs/t1/127014/38/18295/231100/5fabaa8fE5194b55c/7e3431e9ba0a69e7.png">
     </image>
   </view>
 
   <view class="tag_maxdiv" bindtap="smartStreamingdj">
     <image mode="widthFix"
-      src="https://img14.360buyimg.com/ddimg/jfs/t1/121686/35/17953/175014/5fa9f7f9Ecfae9e12/b04def7b0826d82a.png">
+      src="https://img11.360buyimg.com/ddimg/jfs/t1/140834/9/14171/176644/5fabaaa6E8fdbb263/19db97005d6251d8.png">
     </image>
   </view>
 
   <view class="tag_maxdiv" bindtap="smartHdHiddendj">
     <image mode="widthFix"
-      src="https://img12.360buyimg.com/ddimg/jfs/t1/126037/37/17885/184528/5fa9f895E3dc61bde/25c28db204ebd629.png">
+      src="https://img13.360buyimg.com/ddimg/jfs/t1/145959/15/13852/184236/5fabaab7E5d9278e4/453b8d7af6720d16.png">
     </image>
   </view>
 
