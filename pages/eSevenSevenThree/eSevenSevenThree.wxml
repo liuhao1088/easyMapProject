@@ -17,6 +17,11 @@
 
     </view>
 
+    <view class="tag_maxdiv" style="margin-top: 20rpx;">
+      <image mode="widthFix"
+        src="https://img10.360buyimg.com/ddimg/jfs/t1/139027/21/13810/755791/5faa41a2E84dd87a5/a40a6c1884d66c8f.jpg">
+      </image>
+    </view>
 
     <view class="tag_maxdiv" style="margin-top: 20rpx;">
       <image mode="widthFix"
@@ -48,11 +53,7 @@
       </image>
     </view>
 
-    <view class="tag_maxdiv" style="margin-top: 20rpx;">
-      <image mode="widthFix"
-        src="https://img10.360buyimg.com/ddimg/jfs/t1/139027/21/13810/755791/5faa41a2E84dd87a5/a40a6c1884d66c8f.jpg">
-      </image>
-    </view>
+   
 
     <view class="tag_maxdiv" style="width: 100%;margin-top: 60rpx;">
         <image mode="widthFix" style="border-radius: 0rpx;"
