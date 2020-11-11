@@ -18,6 +18,12 @@
       </image>
     </view>
 
+    <view class="tag_maxdiv" style="margin-top: 20rpx;">
+      <image mode="widthFix"
+        src="https://img12.360buyimg.com/ddimg/jfs/t1/136088/34/15298/1369866/5fab538fE077544de/46c4f4dc86b8a07f.jpg">
+      </image>
+    </view>
+
     <view class="tag_maxdiv" style="width: 100%;margin-top: 60rpx;">
         <image mode="widthFix" style="border-radius: 0rpx;"
           src="https://img14.360buyimg.com/ddimg/jfs/t1/120231/23/17943/15813/5fa8f6ffEd23cf49e/e8b387abaa5228ff.jpg">
