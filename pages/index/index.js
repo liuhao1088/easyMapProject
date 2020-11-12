@@ -63,11 +63,11 @@ Page({
   onShow: function () {
     wx.showShareMenu({
 
-      withShareTicket:true,
-      
-      menus:['shareAppMessage','shareTimeline']
-      
-      })
+      withShareTicket: true,
+
+      menus: ['shareAppMessage', 'shareTimeline']
+
+    })
   },
 
   /**
@@ -101,7 +101,13 @@ Page({
   /**
    * 用户点击右上角分享
    */
-  onShareAppMessage: function () {
+  onShareAppMessage: function (options) {
+      return{
+        title: "页面分享", //分享标题
+        desc: "11111", //描述
+        imageUrl: 'https://img11.360buyimg.com/ddimg/jfs/t1/127268/31/17932/156558/5fa9f0e7E41917e0b/4fcfefb12abdfa6a.jpg', //图片路径
 
+      }
+    
   }
 })
