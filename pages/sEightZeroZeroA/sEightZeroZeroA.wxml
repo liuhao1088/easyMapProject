@@ -54,9 +54,9 @@
     </view>
     
 
-    <view class="tag_maxdiv" style="width: 100%;margin-top: 60rpx;">
+    <view class="tag_maxdiv" style="width: 100%;margin-top: 60rpx;background-color: #1e1e1e;">
         <image mode="widthFix" style="border-radius: 0rpx;"
-          src="https://img14.360buyimg.com/ddimg/jfs/t1/120231/23/17943/15813/5fa8f6ffEd23cf49e/e8b387abaa5228ff.jpg">
+          src="https://img11.360buyimg.com/ddimg/jfs/t1/154832/22/5296/59753/5fa9f08fE4f028ad2/02dec8e42baabced.jpg">
         </image>
     </view>
   </view>

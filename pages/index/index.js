@@ -103,9 +103,8 @@ Page({
    */
   onShareAppMessage: function (options) {
       return{
-        title: "页面分享", //分享标题
-        desc: "11111", //描述
-        imageUrl: 'https://img11.360buyimg.com/ddimg/jfs/t1/127268/31/17932/156558/5fa9f0e7E41917e0b/4fcfefb12abdfa6a.jpg', //图片路径
+        title: "易图", //分享标题
+        imageUrl: 'https://img13.360buyimg.com/ddimg/jfs/t1/121210/17/18389/166336/5faca14cE7949307a/1da2d6b96122e01d.jpg', //图片路径
 
       }
     
