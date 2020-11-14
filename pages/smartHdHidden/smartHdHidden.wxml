@@ -7,13 +7,13 @@
 
   <view class="tag_maxdiv" style="margin-top: 60rpx;" bindtap="eSixThreeZerodj">
     <image mode="widthFix"
-      src="https://img14.360buyimg.com/ddimg/jfs/t1/130315/12/15391/166551/5faa02f2Edd10de03/a9b3ca4c403f4b2a.png">
+      src="https://img14.360buyimg.com/ddimg/jfs/t1/123645/33/18614/170746/5faf326fE59b088cd/0fe1d85cc5fa203a.png">
     </image>
   </view>
 
   <view class="tag_maxdiv" bindtap="eSixThreeZeroWiFidj">
     <image mode="widthFix"
-      src="https://img10.360buyimg.com/ddimg/jfs/t1/137936/29/13858/166686/5faa0302E626eb7d4/9f95432c246b311c.png">
+      src="https://img13.360buyimg.com/ddimg/jfs/t1/121514/12/18597/156103/5faf32bbEddfad750/3bf240ef2e336021.png">
     </image>
   </view>
 
