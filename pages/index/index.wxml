@@ -14,39 +14,19 @@
 
   </view>
 
-  <view class="tag_maxdiv" bindtap="hdRecorderdj">
+  <view class="tag_maxdiv" data-index="{{index}}" wx:for="{{detailsList}}" wx:key="id" bindtap="toDetails">
     <image mode="widthFix"
-      src="https://img11.360buyimg.com/ddimg/jfs/t1/127014/38/18295/231100/5fabaa8fE5194b55c/7e3431e9ba0a69e7.png">
+      src="{{item}}">
     </image>
   </view>
 
-  <view class="tag_maxdiv" bindtap="smartStreamingdj">
-    <image mode="widthFix"
-      src="https://img11.360buyimg.com/ddimg/jfs/t1/140834/9/14171/176644/5fabaaa6E8fdbb263/19db97005d6251d8.png">
-    </image>
+  <view class="video_div">
+    <video class="video_nr"
+      src="https://fnck-20200914-1303154931.cos.ap-guangzhou.myqcloud.com/%E8%A7%86%E9%A2%91/%E6%98%93%E5%9B%BE/%E6%98%93%E5%9B%BEE773-%E9%AB%98%E6%B8%85.m4v?q-sign-algorithm=sha1&q-ak=AKIDHL7fPrFwXrtdX9SYLq75j5BxTeFbR3KK&q-sign-time=1604996192;10244909792&q-key-time=1604996192;10244909792&q-header-list=&q-url-param-list=&q-signature=e066637cd28ad9d9604f4347c042814fb1ab91fb"
+      object-fit="cover">
+    </video>
   </view>
 
-  <view class="tag_maxdiv" bindtap="smartHdHiddendj">
-    <image mode="widthFix"
-      src="https://img14.360buyimg.com/ddimg/jfs/t1/138200/24/14328/196538/5faf32ccE1d7fa010/2736a6c123edaa96.png">
-    </image>
-  </view>
-
-  <view class="tag_maxdiv" bindtap="smartBigScreenCarMachinedj">
-    <image mode="widthFix"
-      src="https://img14.360buyimg.com/ddimg/jfs/t1/134353/19/15417/248835/5fa9f8ccE22dbbe7d/f535902598e5dd4e.png">
-    </image>
-  </view>
-
-  <view class="tag_maxdiv" style="width: 90%;">
-    <view class="video_div">
-      <video style="width: 100%;height: 100%;"
-        src="https://fnck-20200914-1303154931.cos.ap-guangzhou.myqcloud.com/%E8%A7%86%E9%A2%91/%E6%98%93%E5%9B%BE/%E6%98%93%E5%9B%BEE773-%E9%AB%98%E6%B8%85.m4v?q-sign-algorithm=sha1&q-ak=AKIDHL7fPrFwXrtdX9SYLq75j5BxTeFbR3KK&q-sign-time=1604996192;10244909792&q-key-time=1604996192;10244909792&q-header-list=&q-url-param-list=&q-signature=e066637cd28ad9d9604f4347c042814fb1ab91fb"
-        binderror="videoErrorCallback" show-center-play-btn="true" controls auto-pause-if-navigate
-        play-btn-position="center">
-      </video>
-    </view>
-  </view>
 
   <view class="tag_maxdiv" style="background-color: #1e1e1e;">
     <image mode="widthFix"

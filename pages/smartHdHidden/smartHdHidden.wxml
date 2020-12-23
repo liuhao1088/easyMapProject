@@ -6,7 +6,7 @@
   </view>
 
   
-  <view class="tag_maxdiv" data-index="{{index}}" wx:for="{{detailsList}}" wx:kexy="id" bindtap="toDetails">
+  <view class="tag_maxdiv" data-index="{{index}}" wx:for="{{detailsList}}" wx:key="id" bindtap="toDetails">
     <image mode="widthFix"
       src="{{item}}">
     </image>

@@ -5,7 +5,12 @@ Page({
    * 页面的初始数据
    */
   data: {
-
+    item:{
+      url:'https://img10.360buyimg.com/ddimg/jfs/t1/142771/9/14062/555003/5facdc9aE0cd4c020/b7ce6ea665a40df1.jpg',
+      detailList:[
+        'https://img11.360buyimg.com/ddimg/jfs/t1/144520/23/14005/347219/5facdcaaE61a07467/0f35c8113cba4bd1.jpg',
+      ]
+    }
   },
 
   /**

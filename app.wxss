@@ -23,3 +23,21 @@ image{
   justify-content: space-between;
   box-sizing: border-box;
 } 
+
+.video_div {
+  width: 100%;
+  float: left;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 60rpx;
+  margin-bottom: 40rpx;
+}
+
+.video_nr {
+  width: 90%;
+  height: 100%;
+  float: left;
+  height: 400rpx;
+  border-radius: 20rpx;
+}

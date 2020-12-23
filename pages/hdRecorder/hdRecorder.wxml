@@ -5,33 +5,11 @@
     </image>
   </view>
 
- 
-
-  <view class="tag_maxdiv" style="margin-top: 60rpx;" bindtap="sSixZeroZerodj">
+  <view class="tag_maxdiv" data-index="{{index}}" wx:for="{{detailsList}}" wx:key="id" bindtap="toDetails">
     <image mode="widthFix"
-      src="https://img13.360buyimg.com/ddimg/jfs/t1/128306/31/18152/215565/5fa9ffe8E6e23d4a3/bdc4ddd6ebb69b02.png">
+      src="{{item}}">
     </image>
   </view>
-
-  <view class="tag_maxdiv" bindtap="sSevenZeroZerodj">
-    <image mode="widthFix"
-      src="https://img10.360buyimg.com/ddimg/jfs/t1/139241/38/13868/207858/5fa9fffaE3525bcd8/53ef46aba37ee71e.png">
-    </image>
-  </view>
-
-  <view class="tag_maxdiv" bindtap="sSevenZeroOnedj">
-    <image mode="widthFix"
-      src="https://img10.360buyimg.com/ddimg/jfs/t1/150772/7/6336/205097/5fabaff5E45a8e0db/5e64154e521a10e4.png">
-    </image>
-  </view>
-
-  <view class="tag_maxdiv" bindtap="sEightZeroOnedj">
-    <image mode="widthFix"
-      src="https://img13.360buyimg.com/ddimg/jfs/t1/148275/5/13870/212174/5faa0022E6cb047da/8e89993222aeeb9e.png">
-    </image>
-  </view>
-
-
 
   <view class="tag_maxdiv" style="width:100%;">
     <image mode="widthFix"

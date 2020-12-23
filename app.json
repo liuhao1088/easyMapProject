@@ -1,7 +1,8 @@
 {
   "pages":[
-    "pages/smartHdHidden/smartHdHidden",
+    "pages/hdRecorder/hdRecorder",
     "pages/index/index",
+    "pages/smartHdHidden/smartHdHidden",
     "pages/companyProfile/companyProfile",
     "pages/eSevenSevenFive/eSevenSevenFive",
     "pages/eSevenSevenFivem/eSevenSevenFivem",
@@ -21,9 +22,9 @@
     "pages/ar/ar",
     "pages/dThreePro/dThreePro",
     "pages/dSixPro/dSixPro",
-    "pages/threeSixZeroWiFi/threeSixZeroWiFi",
+    "pages/threeSixZeroWiFi/threeSixZeroWiFi"
     
-    "pages/hdRecorder/hdRecorder"
+    
     
     
   ],
