@@ -1,8 +1,11 @@
 {
   "pages":[
+    "pages/smartHdHidden/smartHdHidden",
     "pages/index/index",
     "pages/companyProfile/companyProfile",
-    "pages/smartHdHidden/smartHdHidden",
+    "pages/eSevenSevenFive/eSevenSevenFive",
+    "pages/eSevenSevenFivem/eSevenSevenFivem",
+    "pages/eSevenSevenFiveAr/eSevenSevenFiveAr",
     "pages/smartBigScreenCarMachine/smartBigScreenCarMachine",
     "pages/smartStreaming/smartStreaming",
     "pages/sSixZeroZero/sSixZeroZero",
@@ -29,7 +32,7 @@
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "Weixin",
     "navigationBarTextStyle":"black",
-    "navigationStyle": "default"
+    "navigationStyle": "custom"
   },
   "sitemapLocation": "sitemap.json"
 }

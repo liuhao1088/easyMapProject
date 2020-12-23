@@ -1,4 +1,4 @@
-// pages/smartHdHidden/smartHdHidden.js
+// pages/eSevenSevenFiveAr/eSevenSevenFiveAr.js
 Page({
 
   /**
@@ -7,41 +7,7 @@ Page({
   data: {
 
   },
-  toeSevenSevenFive(){
-    wx.navigateTo({
-      url: "../eSevenSevenFive/eSevenSevenFive"
-    })
-  },
-  toeSevenSevenFivem(){
-    wx.navigateTo({
-      url: "../eSevenSevenFivem/eSevenSevenFivem"
-    })
-  },
-  toeSevenSevenFiveAr(){
-    wx.navigateTo({
-      url: "../eSevenSevenFiveAr/eSevenSevenFiveAr"
-    })
-  },
-  eSixThreeZerodj: function () {
-    wx.navigateTo({
-      url: "../eSixThreeZero/eSixThreeZero"
-    })
-  },
-  eSixThreeZeroWiFidj: function () {
-    wx.navigateTo({
-      url: "../eSixThreeZeroWiFi/eSixThreeZeroWiFi"
-    })
-  },
-  eSevenSevenTwodj: function () {
-    wx.navigateTo({
-      url: "../eSevenSevenTwo/eSevenSevenTwo"
-    })
-  },
-  eSevenSevenThreedj: function () {
-    wx.navigateTo({
-      url: "../eSevenSevenThree/eSevenSevenThree"
-    })
-  },
+
   /**
    * 生命周期函数--监听页面加载
    */

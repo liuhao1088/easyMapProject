@@ -5,7 +5,26 @@
     </image>
   </view>
 
-  <view class="tag_maxdiv" style="margin-top: 60rpx;" bindtap="eSixThreeZerodj">
+  <view class="tag_maxdiv" style="margin-top: 60rpx;" bindtap="toeSevenSevenFive">
+    <image mode="widthFix"
+      src="https://img13.360buyimg.com/ddimg/jfs/t1/148385/28/19680/36569/5fe2efaaE816b1626/8194d863d1ca76a3.png">
+    </image>
+  </view>
+
+  <view class="tag_maxdiv"  bindtap="toeSevenSevenFivem">
+    <image mode="widthFix"
+      src="https://img10.360buyimg.com/ddimg/jfs/t1/151502/15/11251/45114/5fe2efd2Eeed8e21f/7697201dce9a9180.png">
+    </image>
+  </view>
+
+  <view class="tag_maxdiv"  bindtap="toeSevenSevenFiveAr">
+    <image mode="widthFix"
+      src="https://img14.360buyimg.com/ddimg/jfs/t1/145566/39/19754/61936/5fe2efe6E07911a1e/4ed72e76499f8028.png">
+    </image>
+  </view>
+
+
+  <view class="tag_maxdiv" bindtap="eSixThreeZerodj">
     <image mode="widthFix"
       src="https://img14.360buyimg.com/ddimg/jfs/t1/123645/33/18614/170746/5faf326fE59b088cd/0fe1d85cc5fa203a.png">
     </image>
