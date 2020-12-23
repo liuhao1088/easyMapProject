@@ -5,7 +5,14 @@ Page({
    * 页面的初始数据
    */
   data: {
-
+    item:{
+      url:'https://img10.360buyimg.com/ddimg/jfs/t1/154880/7/5592/372517/5face23bEf6e5316e/65d2a3dfb7ec2db4.jpg',
+      detailList:[
+        'https://img11.360buyimg.com/ddimg/jfs/t1/150228/27/14249/360375/5face24aEe450acf6/cc646ac847f26398.jpg',
+        'https://img13.360buyimg.com/ddimg/jfs/t1/154976/39/5525/370668/5face25aE9104e057/7ad566178d3b9173.jpg',
+        'https://img10.360buyimg.com/ddimg/jfs/t1/128714/35/18410/315499/5face269E364f600c/d929fee1da7f512e.jpg',
+      ]
+    }
   },
 
   /**

@@ -6,6 +6,10 @@
   float: left;
 }
 
+.tag_maxdiv:nth-child(2){
+  margin-top: 60rpx;
+}
+
 image {
   height: 100%;
   width: 100%;

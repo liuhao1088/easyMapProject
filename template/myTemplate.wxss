@@ -1,0 +1,32 @@
+/* .container{
+  padding-bottom: 60rpx;
+} */
+
+image {
+  height: 100vh;
+  border-radius: 10rpx;
+}
+
+.tag_maxdiv {
+  width: 90%;
+  float: left;
+  margin-top: 30rpx;
+}
+
+.video_div {
+  width: 100%;
+  float: left;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 60rpx;
+  margin-bottom: 40rpx;
+}
+
+.video_nr {
+  width: 90%;
+  height: 100%;
+  float: left;
+  height: 400rpx;
+  border-radius: 20rpx;
+}
