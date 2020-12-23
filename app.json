@@ -1,14 +1,14 @@
 {
   "pages":[
-    "pages/smartStreaming/smartStreaming",
     "pages/index/index",
+    "pages/smartBigScreenCarMachine/smartBigScreenCarMachine",
+    "pages/smartStreaming/smartStreaming",
     "pages/hdRecorder/hdRecorder",
     "pages/smartHdHidden/smartHdHidden",
     "pages/companyProfile/companyProfile",
     "pages/eSevenSevenFive/eSevenSevenFive",
     "pages/eSevenSevenFivem/eSevenSevenFivem",
     "pages/eSevenSevenFiveAr/eSevenSevenFiveAr",
-    "pages/smartBigScreenCarMachine/smartBigScreenCarMachine",
     "pages/sSixZeroZero/sSixZeroZero",
     "pages/sSevenZeroZero/sSevenZeroZero",
     "pages/sSevenZeroOne/sSevenZeroOne",
@@ -23,10 +23,6 @@
     "pages/dThreePro/dThreePro",
     "pages/dSixPro/dSixPro",
     "pages/threeSixZeroWiFi/threeSixZeroWiFi"
-    
-    
-    
-    
   ],
   "window":{
     "backgroundTextStyle":"light",
